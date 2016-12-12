@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_fresco_menu"
+        android:title="Fresco"/>
+
+    <item
+        android:id="@+id/main_picasso_menu"
+        android:title="Picasso"/>
+
+    <item
+        android:id="@+id/main_glide_menu"
+        android:title="Glide"/>
+
+</menu>
